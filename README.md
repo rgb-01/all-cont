@@ -9,7 +9,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://marufshidiq.github.io/"><img src="https://avatars2.githubusercontent.com/u/13828779?v=4" width="100px;" alt="Ma'ruf Shidiq"/><br /><sub><b>Ma'ruf Shidiq</b></sub></a><br /><a href="#design-marufshidiq" title="Design">🎨</a></td>
+    <td align="center"><a href="https://marufshidiq.github.io/"><img src="https://avatars2.githubusercontent.com/u/13828779?v=4" width="100px;" alt="Ma'ruf Shidiq"/><br /><sub><b>Ma'ruf Shidiq</b></sub></a><br /><a href="#design-marufshidiq" title="Design">🎨</a> <a href="#infra-marufshidiq" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
 </table>
 
