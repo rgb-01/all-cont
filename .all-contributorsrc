@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "marufshidiq",
+      "name": "Ma'ruf Shidiq",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13828779?v=4",
+      "profile": "https://marufshidiq.github.io/",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "all-contrib",
+  "projectOwner": "rgb-01",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
